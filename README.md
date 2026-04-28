@@ -1,10 +1,10 @@
-# CleanTrack AI
+<img width="700" height="67" alt="image" src="https://github.com/user-attachments/assets/9ab42a4d-73dc-434a-8f04-e8c4a08bea10" /># CleanTrack AI
 
 CleanTrack AI is a smart waste reporting system that allows users to report garbage and uses AI-based analysis to classify waste and assign priority.
 
 ## 🚀 Live Website
 
-https://your-username.github.io/cleantrack-ai
+https://chaitanyamcs25.github.io/cleantrack--ai/
 
 ## 💡 Features
 
